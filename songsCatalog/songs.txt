@@ -1,0 +1,4 @@
+Let_it_be;Beatles;
+We_are_the_champions;Queen;
+Strangers_in_the_night;Frank_Sinatra;
+Satisfaction;Rolling_Stones;
